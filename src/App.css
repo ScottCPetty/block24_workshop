@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+
+.pNames {
+  border: solid;
+}
+
+.pupCard {
+  border: dashed;
+  padding: 1%;
+}
